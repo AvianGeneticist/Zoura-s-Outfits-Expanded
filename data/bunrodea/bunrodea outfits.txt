@@ -19,6 +19,7 @@ outfit "Fuel Bead"
 	description "Fuel beads aren't particularly efficient fuel storage outfits, but they allow ships like fighters to carry small quantities of hyperspace fuel for running special systems like afterburners."
 
 outfit "Biikala Adaptive Engines"
+	plural "Biikala Adaptive Engines"
 	category "Engines"
 	cost 280000
 	thumbnail "outfit/chiisana rift thruster"
@@ -40,6 +41,7 @@ outfit "Biikala Adaptive Engines"
 	description "Adaptive Engines are a newly developed, modular engine technology first fielded by the Bunrodea only a few decades ago. Engines of this type aren't quite as efficient as Rift Engines of the same type, but boast an incredible level of aftermarket potential."
 
 outfit "Qiikata Adaptive Engines"
+	plural "Qiikata Adaptive Engines"
 	category "Engines"
 	cost 1020000
 	thumbnail "outfit/subarashii rift thruster"

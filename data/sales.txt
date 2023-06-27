@@ -73,8 +73,9 @@ outfitter "kahet"
 	"Ka'het Shield Enhancer"
 	
 shipyard "kahet"
-	"Telis'Het (Heavy Shield)"
-	"Vareti'Het (Heavy Shields)"
+	"Telis'het (Heavy Shields)"
+	"Vareti'het (Heavy Shields)"
+	"Faes'mar (Panic)"
 	
 outfitter "korath"
 	"Afterburner Core"

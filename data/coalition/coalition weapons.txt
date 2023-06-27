@@ -193,4 +193,3 @@ effect "celebration colours"
 	"random angle" 360
 	"random velocity" 4
 	"velocity scale" 0
-	"drag" .1

@@ -58,7 +58,7 @@ outfit "Plasma Howitzer"
 			"frame rate" 3
 		sound "plasma"
 		"hit effect" "plasma explosion"
-		"icon" "icon/plasma howizer"
+		"icon" "icon/plasma howitzer"
 		"inaccuracy" 1
 		"velocity" 13
 		"lifetime" 44

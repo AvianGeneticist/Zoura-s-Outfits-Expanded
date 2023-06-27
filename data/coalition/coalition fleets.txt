@@ -19,7 +19,7 @@ fleet "Heliarch"
 	add variant 6
 		"Heliarch Breacher (Afterburners)"
 	add variant 4
-		"Heliarch Breacher (Riot)"
+		"Heliarch Breacher (Heavy)"
 	add variant 6
 		"Heliarch Interdictor (Riot)"
 	add variant 4

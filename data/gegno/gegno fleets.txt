@@ -1,13 +1,13 @@
 fleet "Gegno Basic"
-	add add variant
+	add variant
 		"Dolomite (Heavy)"
 		"Shale"
-	add add variant
+	add variant
 		"Dolomite"
 		"Dolomite (Heavy)"
-	add add variant
+	add variant
 		"Conglomerate (Heavy)"
-	add add variant
+	add variant
 		"Conglomerate (Heavy)"
 		"Shale"
 		

@@ -251,7 +251,7 @@ ship "Arch-Carrack" "Arch-Carrack (Quantum)"
 	gun "Digger Mining Beam"
 	gun "Digger Mining Beam"
 	
-ship "Charm-Shallop"
+ship "Charm-Shallop" "Charm-Shallop (Quantum)"
 	outfits
 		"Digger Mining Beam" 3
 		"Warder Anti-Missile"

@@ -16,7 +16,7 @@ ship "Kaiken" "Kaiken (Adaptive)"
 	
 	gun "Locust Blaster"
 	gun "Locust Blaster"
-	gun "Swarm Missile"
+	gun "Swarm Pod"
 	
 ship "Kaiken" "Kaiken (Elytra)"
 	outfits

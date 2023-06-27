@@ -1,4 +1,5 @@
 outfit "Charge Gas"
+	plural "Charge Gas"
 	category "Ammunition"
 	cost 1
 	thumbnail "outfit/supercapacitor"
