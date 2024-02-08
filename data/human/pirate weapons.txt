@@ -68,7 +68,7 @@ outfit "Burst Scatter IX"
 		"burst reload" 5
 		"firing energy" 20.7
 		"firing heat" 41.4
-	description "This is the heaviest permutation of the Burst Scatter weapon used in human space; though it doesn't even match a Heavy Laser in size, the weapon's shield damage is extremely high, meaning any small ship equipped with one will see a great boost to its shield killing potential."
+	description "This is the heaviest permutation of the Burst Scatter weapon found in human space; though it doesn't even match a Heavy Laser in size, the weapon's shield damage is extremely high, meaning any small ship equipped with one will see a great boost to its shield killing potential."
 
 outfit "Burst Scatter III Turret"
 	category "Turrets"
