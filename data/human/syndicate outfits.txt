@@ -34,7 +34,7 @@ outfit "PDP064 Battery Pack"
 outfit "Sentinel Reactor"
 	category "Power"
 	cost 3850000
-	thumbnail "outfit/fusion"
+	thumbnail "outfit/sentinel reactor"
 	"mass" 115
 	"outfit space" -115
 	"energy generation" 19.4
