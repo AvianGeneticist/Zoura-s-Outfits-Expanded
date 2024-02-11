@@ -6,7 +6,7 @@ outfit "R0152 Naval Shield"
 	licenses
 		"Navy"
 	cost 100000
-	thumbnail "outfit/tiny shield"
+	thumbnail "outfit/tiny navy shield"
 	"mass" 9
 	"outfit space" -9
 	"shield generation" .3
@@ -20,7 +20,7 @@ outfit "R0238 Naval Shield"
 	licenses
 		"Navy"
 	cost 315000
-	thumbnail "outfit/medium shield"
+	thumbnail "outfit/small navy shield"
 	"mass" 26
 	"outfit space" -26
 	"shield generation" .96
@@ -34,7 +34,7 @@ outfit "R0376 Naval Shield"
 	licenses
 		"Navy"
 	cost 727500
-	thumbnail "outfit/large shield"
+	thumbnail "outfit/medium navy shield"
 	"mass" 51
 	"outfit space" -51
 	"shield generation" 2.1
@@ -48,7 +48,7 @@ outfit "R0518 Naval Shield"
 	licenses
 		"Navy Auxiliary"
 	cost 1120000
-	thumbnail "outfit/huge shield"
+	thumbnail "outfit/large navy shield"
 	"mass" 73
 	"outfit space" -73
 	"shield generation" 3.3
