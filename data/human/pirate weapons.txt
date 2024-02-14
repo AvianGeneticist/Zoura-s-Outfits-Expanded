@@ -170,5 +170,6 @@ outfit "Reactor Rod Cannon"
 		"hull damage" 4390
 		"hit force" 1100
 		"missile strength" 41
-	description "This is a low-powered penumatic launcher that sends six-ton reactor rods out into space. The resultant projectile moves slowly and has no sort of homing or proximity detonation, but if it hits its target, the resultant explosion can cripple an entire fleet of small warships."
+	description "This is a low-powered pneumatic launcher that sends six-ton reactor rods out into space. The resultant projectile moves slowly and has no sort of homing or proximity detonation, but if it hits its target, the resultant explosion can cripple an entire fleet of small warships."
 	description "	Using uranium reactor rods in this way, however, is a criminal offense, so a hefty fine awaits any captain intending on making heavy use of these improvised weapons."
+	
