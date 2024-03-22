@@ -1,7 +1,7 @@
 outfit "Hai Quartz Regenerator"
 	category "Systems"
 	cost 120000
-	thumbnail "outfit/small regenerator hai"
+	thumbnail "outfit/tiny regenerator hai"
 	"mass" 5
 	"outfit space" -5
 	"shield generation" .2
