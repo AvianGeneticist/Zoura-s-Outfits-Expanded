@@ -47,7 +47,7 @@ outfit "Sniper Anti-Missile"
 outfit "Plasma Howitzer"
 	category "Secondary Weapons"
 	cost 295000
-	thumbnail "outfit/plasma cannon"
+	thumbnail "outfit/plasma howitzer"
 	"mass" 38
 	"outfit space" -38
 	"weapon capacity" -38
@@ -83,7 +83,7 @@ outfit "Plasma Repeater Turret"
 	licenses
 		"Militia"
 	cost 710000
-	thumbnail "outfit/plasma turret"
+	thumbnail "outfit/plasma repeater turret"
 	"mass" 76
 	"outfit space" -76
 	"weapon capacity" -76
