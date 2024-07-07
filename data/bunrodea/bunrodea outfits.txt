@@ -11,7 +11,7 @@ outfit "Bunrodea Fuel Collector"
 outfit "Fuel Bead"
 	category "Systems"
 	cost 20000
-	thumbnail "outfit/fuel pod"
+	thumbnail "outfit/bunrodea fuel bead"
 	"mass" 1
 	"outfit space" -1
 	"fuel capacity" 10
@@ -59,7 +59,7 @@ outfit "Qiikata Adaptive Engines"
 	"turn" 2771
 	"turning energy" 12.2
 	"turning heat" 4.7
-	description "For their larger ships, the Bunrodea developed this larger Adaptive Engine set instead of forcing captains to just install more of the smaller model. Like its smaller cousin, this engine set possesses an extreme amount of customization potential - so much, in fact, that most Bunrodean ships can't use it."
+	description "For their larger ships, the Bunrodea developed this larger Adaptive Engine set instead of forcing captains to just install more of the smaller model. Like its smaller cousin, this engine set possesses an extreme amount of customization potential - so much, in fact, that most Bunrodean ships can't use it all."
 	
 outfit "Engine Thrust Upgrade"
 	category "Engines"
