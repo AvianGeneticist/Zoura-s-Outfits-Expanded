@@ -25,4 +25,4 @@ outfit "Calcite Breach Sealant"
 	"hull repair rate" .62
 	"hull energy" .31
 	"hull heat" .62
-	description `This is a larger variant of the Gegno Vi's first generation breach sealant, providing slightly more efficiency than two of the smaller version while taking up less space.`
+	description `This is a larger variant of the Gegno Vi's first generation breach sealant, providing slightly more efficacy than two of the smaller version while taking up less space.`
