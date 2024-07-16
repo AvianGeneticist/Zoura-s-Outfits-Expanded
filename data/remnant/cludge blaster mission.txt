@@ -14,7 +14,7 @@ mission "Remnant Cludge Blaster Sale"
 				`	(No.)`
 					decline
 
-			`	You approach the Remnant, and a couple of them look back at you. "Are you interested in these Cludge Blasters?" the leading Remnant in front of the sled signs.`
+			`	You approach the Remnant, and a couple of them look back at you. "Are you interested in these Cludge Blasters?" the leading Remnant in front of the sled chants.`
 			choice
 				`	"You bet!"`
 					goto sale
