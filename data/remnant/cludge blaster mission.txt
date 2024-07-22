@@ -1,5 +1,6 @@
 mission "Remnant Cludge Blaster Sale"
 	repeat
+	job
 	source
 		government "Remnant"
 	to offer
