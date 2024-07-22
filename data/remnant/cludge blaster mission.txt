@@ -9,7 +9,7 @@ mission "Remnant Cludge Blaster Sale"
 		"credits" >= 15000000
 	on offer
 		conversation
-			`As you walk around the spaceport, you notice a few of the Remnant hauling a sled around with what appears to be a variety of modified weapons. Do you want to investigate?`
+			`As you browse the available jobs, you notice a few of the Remnant hauling a sled around with what appears to be a variety of modified weapons. Do you want to investigate?`
 			choice
 				`	(Yes.)`
 				`	(No.)`

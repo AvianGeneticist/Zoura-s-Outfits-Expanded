@@ -98,8 +98,8 @@ outfit "Plasma Repeater Turret"
 		"hit effect" "plasma explosion"
 		"inaccuracy" 5
 		"turret turn" 1.0
-		"velocity" 14
-		"lifetime" 39
+		"lifetime" 38
+		"velocity" 12
 		"reload" 3
 		"firing energy" 13
 		"firing heat" 100
