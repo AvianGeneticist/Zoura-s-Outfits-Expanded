@@ -25,10 +25,14 @@ mission "Plasma Repeater Turret Available"
 			has "event: quickstart free worlds shop changes"
 	on offer
 		event "plasma repeater turret" 30
+		conversation
+			scene "outfit/plasma repeater turret"
+			"Kraz Cybernetics finally released a turreted version of the Plasma Repeater!"
+				decline
 		
 event "plasma repeater turret"
 	outfitter "Kraz Advanced"
-		"Plasma Repeater Turret"
+		add "Plasma Repeater Turret"
 
 mission "Massive Human Shield Generators Available"
 	landing
@@ -36,7 +40,11 @@ mission "Massive Human Shield Generators Available"
 	to offer
 		has "event: southern carriers 1"
 	on offer
-		event "massive human shield generators available" 90
+		event "massive human shield generators available" 60
+		conversation
+			scene "outfit/huge shield"
+			`The Free Worlds raise the stakes by introducing some kind of a massivized shield to protect their new carriers.`
+				decline
 
 event "massive human shield generators available"
 	outfitter "Kraz Advanced"
@@ -47,8 +55,6 @@ outfitter "Central Outfits Expansion"
 	"Javelin Warehouse"
 
 outfitter "Lovelace Basics"
-	"R0152 Naval Shield"
-	"R0238 Naval Shield"
 	"Heat Transfer Unit"
 
 mission "Typhoon Storage Bay Available"
@@ -66,13 +72,33 @@ event "typhoon storage bay"
 		"Typhoon Storage Bay"
 	
 outfitter "Lovelace Advanced"
-	"R0152 Naval Shield"
-	"R0238 Naval Shield"
-	"R0376 Naval Shield"
 	"Heat Transfer Unit"
 	"Heat Transfer Rig"
 	"Sidewinder Missile Silo"
 	"Torpedo Storage Bay"
+
+mission "Navy Shield Generators Available"
+	landing
+	invisible
+	source
+		government "Republic"
+	to offer
+		has "event: southern carriers 1"
+	on offer
+		event "navy shield generators available" 90
+		conversation
+			scene "outfit/large navy shield"
+			"The Republic countermoves the Free Worlds' new shields with a new series of even more productive shield generators made by Lovelace!"
+				decline
+
+event "navy shield generators available"
+	outfitter "Lovelace Basics"
+		add "R0152 Naval Shield"
+		add "R0238 Naval Shield"
+	outfitter "Lovelace Advanced"
+		add "R0152 Naval Shield"
+		add "R0238 Naval Shield"
+		add "R0376 Naval Shield"
 
 outfitter "Syndicate Basics"
 	"10KZ Electrostatic Thruster"
@@ -93,15 +119,67 @@ outfitter "Syndicate Advanced"
 	"40KZ Electrostatic Steering"
 	"50KZ Electrostatic Thruster"
 	"50KZ Electrostatic Steering"
-	"Covalent Proton Turret"
-	"Sentinel Reactor"
 	"Meteor Missile Stockpile"
 	"Torpedo Storage Bay"
 	"Javelin Warehouse"
 	"PDP016 Battery Pack"
 	"PDP032 Battery Pack"
 	"PDP064 Battery Pack"
-	
+
+mission "Dual Proton Turret Available"
+	landing
+	invisible
+	source
+		government "Syndicate"
+	to offer
+		has "event: war begins"
+	on offer
+		event "dual proton turret available" 0
+		conversation
+			scene "outfit/dual proton turret new"
+			`Whether peace or war, the Syndicate always finds a way to make money. Anyway, buy the Dual Proton Turret! Two Proton guns in one turret! Don't be vanilla, get one now!`
+				decline
+
+event "dual proton turret available"
+	outfitter "Syndicate Advanced"
+		add "Dual Proton Turret"
+
+mission "Covalent Proton Turret Available"
+	landing
+	invisible
+	source
+		government "Syndicate"
+	to offer
+		has "event: war begins"
+	on offer
+		event "covalent proton turret available" 90
+		conversation
+			scene "outfit/dual proton turret old"
+			`Need to crush some nasty bureaucrats? Or some evil secessionists? One way or the other, the Covalent Proton Turret is the tool of choice!`
+				decline
+
+event "covalent proton turret available"
+	outfitter "Syndicate Advanced"
+		add "Covalent Proton Turret"
+
+mission "Sentinel Reactor Available"
+	landing
+	invisible
+	source
+		government "Syndicate"
+	to offer
+		has "event: war begins"
+	on offer
+		event "sentinel reactor available" 120
+		conversation
+			scene "outfit/sentinel reactor"
+			`Your shiny new weaponry draws a little too much energy? Don't despair, buy a shiny new Sentinel Reactor! With 20% more neutrons!`
+				decline
+
+event "sentinel reactor available"
+	outfitter "Syndicate Advanced"
+		add "Sentinel Reactor"
+
 outfitter "Pirate Basics"
 	"Burst Scatter III"
 	"Burst Scatter V"
