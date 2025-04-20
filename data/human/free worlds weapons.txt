@@ -97,7 +97,7 @@ outfit "Plasma Repeater Turret"
 		sound "plasma"
 		"hit effect" "plasma explosion"
 		"inaccuracy" 5
-		"turret turn" 1.0
+		"turret turn" 1.25
 		"lifetime" 38
 		"velocity" 12
 		"reload" 3
