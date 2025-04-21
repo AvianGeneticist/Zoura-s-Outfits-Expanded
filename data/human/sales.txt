@@ -19,8 +19,6 @@ outfitter "Kraz Advanced"
 mission "Plasma Repeater Turret Available"
 	landing
 	invisible
-	source
-		government "Free Worlds"
 	to offer
 		or
 			has "event: plasma repeater advanced"
@@ -39,15 +37,13 @@ event "plasma repeater turret"
 mission "Massive Human Shield Generators Available"
 	landing
 	invisible
-	source
-		government "Free Worlds"
 	to offer
 		has "event: southern carriers 1"
 	on offer
 		event "massive human shield generators available" 60
 		conversation
 			scene "outfit/huge shield"
-			`The Free Worlds raise the stakes by introducing some kind of a massivized shield generator to protect their new carriers!`
+			`The Free Worlds raise the stakes by introducing some kind of a massivized shield generators to protect their new carriers!`
 				decline
 
 event "massive human shield generators available"
@@ -64,8 +60,6 @@ outfitter "Lovelace Basics"
 mission "Typhoon Storage Bay Available"
 	landing
 	invisible
-	source
-		government "Republic"
 	to offer
 		or
 			has "event: navy expand typhoon sales"
@@ -86,8 +80,6 @@ outfitter "Lovelace Advanced"
 mission "Navy Shield Generators Available"
 	landing
 	invisible
-	source
-		government "Republic"
 	to offer
 		has "event: southern carriers 1"
 	on offer
@@ -135,8 +127,6 @@ outfitter "Syndicate Advanced"
 mission "Dual Proton Turret Available"
 	landing
 	invisible
-	source
-		government "Syndicate"
 	to offer
 		has "event: war begins"
 	on offer
@@ -153,8 +143,6 @@ event "dual proton turret available"
 mission "Covalent Proton Turret Available"
 	landing
 	invisible
-	source
-		government "Syndicate"
 	to offer
 		has "event: war begins"
 	on offer
@@ -171,8 +159,6 @@ event "covalent proton turret available"
 mission "Sentinel Reactor Available"
 	landing
 	invisible
-	source
-		government "Syndicate"
 	to offer
 		has "event: war begins"
 	on offer
