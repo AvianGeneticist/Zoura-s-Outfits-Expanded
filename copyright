@@ -41,20 +41,27 @@ License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (mzahniser@gmail.com) and Tommaso Becca (tommasobecca03@gmail.com).
 
 files:
- images/outfit/covalent proton turret*.png
- images/hardpoint/covalent proton turret*.png
- Copyright: bene-dictator (benstaples8068@gmail.com)
+ images/outfit/dual proton turret new*.png
+ images/hardpoint/dual proton turret new*.png
+Copyright: bene-dictator (benstaples8068@gmail.com)
 License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (mzahniser@gmail.com), Nate Graham (pointedstick@zoho.com), and Tommaso Becca (tommasobecca03@gmail.com).
 
 files:
+ images/outfit/dual proton turret old*.png
+ images/hardpoint/dual proton turret old*.png
+Copyright: J.C. Hamlin
+License: CC-BY-SA-4.0
+Comment: Derived from works by Michael Zahniser.
+
+files:
  images/outfit/coalition bunk room.png
- Copyright: Jason Clark
+Copyright: Jason Clark
 License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license)
 
 files:
  images/outfit/pug hull.png
- Copyright: Loymdayddaud (https://github.com/TheGiraffe3)
+Copyright: Loymdayddaud (https://github.com/TheGiraffe3)
 License: CC-BY-SA-4.0
 Comment: Derived from works by Becca Tommaso (under the same license)
