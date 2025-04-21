@@ -43,7 +43,7 @@ mission "Massive Human Shield Generators Available"
 		event "massive human shield generators available" 60
 		conversation
 			scene "outfit/huge shield"
-			`The Free Worlds raise the stakes by introducing some kind of a massivized shield generators to protect their new carriers!`
+			`The Free Worlds raise the stakes by introducing some kind of massivized shield generators to protect their new carriers!`
 				decline
 
 event "massive human shield generators available"
