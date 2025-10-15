@@ -1,3 +1,6 @@
+outfitter "Wanderer Basics"
+	"Rolling Thunder"
+
 outfitter "Wanderer Advanced"
 	"Eclipse Rangefinder"
 	"Windbreaker Regulator"
