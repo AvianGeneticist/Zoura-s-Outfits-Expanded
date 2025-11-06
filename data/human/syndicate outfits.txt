@@ -47,7 +47,7 @@ outfit "Sentinel Reactor"
 outfit "10KZ Electrostatic Thruster"
 	category "Engines"
 	"cost" 12000
-	thumbnail "outfit/tiny ion thruster"
+	thumbnail "outfit/tiny electrostatic thruster"
 	"mass" 19
 	"outfit space" -19
 	"engine capacity" -19
@@ -55,7 +55,7 @@ outfit "10KZ Electrostatic Thruster"
 	"thrust" 23.1
 	"thrusting energy" 2.4
 	"thrusting heat" 1.05
-	"flare sprite" "effect/ion flare/tiny"
+	"flare sprite" "effect/electrostatic flare/tiny"
 		"frame rate" 1.2
 	"flare sound" "ion tiny"
 	description "Though the Syndicate doesn't sell these stock on their ships, they commonly offer these more powerful engines as an alternative to their ion engines. Though quite heat efficient, the energy draw these engines take is considerable by almost any standard."
@@ -64,7 +64,7 @@ outfit "10KZ Electrostatic Thruster"
 outfit "20KZ Electrostatic Thruster"
 	category "Engines"
 	"cost" 26000
-	thumbnail "outfit/small ion thruster"
+	thumbnail "outfit/small electrostatic thruster"
 	"mass" 31
 	"outfit space" -31
 	"engine capacity" -31
@@ -72,7 +72,7 @@ outfit "20KZ Electrostatic Thruster"
 	"thrust" 41.6
 	"thrusting energy" 4.7
 	"thrusting heat" 2.175
-	"flare sprite" "effect/ion flare/small"
+	"flare sprite" "effect/electrostatic flare/small"
 		"frame rate" 1.1
 	"flare sound" "ion small"
 	description "Unlike their ionic brethren, these small electrostatic thrusters can provide outsized maneuverability for medium to large ships. This does, however, come at a substantial energy cost."
@@ -81,7 +81,7 @@ outfit "20KZ Electrostatic Thruster"
 outfit "30KZ Electrostatic Thruster"
 	category "Engines"
 	"cost" 58000
-	thumbnail "outfit/medium ion thruster"
+	thumbnail "outfit/medium electrostatic thruster"
 	"mass" 56
 	"outfit space" -56
 	"engine capacity" -56
@@ -89,7 +89,7 @@ outfit "30KZ Electrostatic Thruster"
 	"thrust" 72.3
 	"thrusting energy" 7.4
 	"thrusting heat" 3.525
-	"flare sprite" "effect/ion flare/medium"
+	"flare sprite" "effect/electrostatic flare/medium"
 		"frame rate" 1.0
 	"flare sound" "ion medium"
 	description "Electrostatic engines allow any ship to move swiftly with a low heat footprint, but they often require an upgrade of the ship's energy systems to be used."
@@ -98,7 +98,7 @@ outfit "30KZ Electrostatic Thruster"
 outfit "40KZ Electrostatic Thruster"
 	category "Engines"
 	"cost" 128000
-	thumbnail "outfit/large ion thruster"
+	thumbnail "outfit/large electrostatic thruster"
 	"mass" 89
 	"outfit space" -89
 	"engine capacity" -89
@@ -106,7 +106,7 @@ outfit "40KZ Electrostatic Thruster"
 	"thrust" 122.4
 	"thrusting energy" 12.5
 	"thrusting heat" 6.15
-	"flare sprite" "effect/ion flare/large"
+	"flare sprite" "effect/electrostatic flare/large"
 		"frame rate" 0.9
 	"flare sound" "ion large"
 	description "For most capital warships, this thruster's output is remarkable, but its energy requirements are a significant deterrent to any would-be purchasers."
@@ -115,7 +115,7 @@ outfit "40KZ Electrostatic Thruster"
 outfit "50KZ Electrostatic Thruster"
 	category "Engines"
 	"cost" 281000
-	thumbnail "outfit/huge ion thruster"
+	thumbnail "outfit/huge electrostatic thruster"
 	"mass" 128
 	"outfit space" -128
 	"engine capacity" -128
@@ -123,7 +123,7 @@ outfit "50KZ Electrostatic Thruster"
 	"thrust" 190.1
 	"thrusting energy" 19.4
 	"thrusting heat" 9.6
-	"flare sprite" "effect/ion flare/huge"
+	"flare sprite" "effect/electrostatic flare/huge"
 		"frame rate" 0.8
 	"flare sound" "ion huge"
 	description "An engine this size demands a fusion reactor all its own, but provides similar output to atomic engines of the same size with a fraction of the heat footprint."
@@ -133,7 +133,7 @@ outfit "50KZ Electrostatic Thruster"
 outfit "10KZ Electrostatic Steering"
 	category "Engines"
 	"cost" 10000
-	thumbnail "outfit/tiny ion steering"
+	thumbnail "outfit/tiny electrostatic steering"
 	"mass" 14
 	"outfit space" -14
 	"engine capacity" -14
@@ -141,7 +141,7 @@ outfit "10KZ Electrostatic Steering"
 	"turn" 512
 	"turning energy" 1.2	
 	"turning heat" 0.6
-	"steering flare sprite" "effect/ion flare/tiny"
+	"steering flare sprite" "effect/electrostatic flare/tiny"
 		"frame rate" 1.2
 	"steering flare sound" "ion tiny"
 	description "Electrostatic engines were developed by the Syndicate for their large warships, allowing larger ships to turn quite effectively. They do, however, consume a significant amount of energy."
@@ -150,7 +150,7 @@ outfit "10KZ Electrostatic Steering"
 outfit "20KZ Electrostatic Steering"
 	category "Engines"
 	"cost" 21000
-	thumbnail "outfit/small ion steering"
+	thumbnail "outfit/small electrostatic steering"
 	"mass" 24
 	"outfit space" -24
 	"engine capacity" -24
@@ -158,7 +158,7 @@ outfit "20KZ Electrostatic Steering"
 	"turn" 922
 	"turning energy" 2.2
 	"turning heat" 1.075
-	"steering flare sprite" "effect/ion flare/small"
+	"steering flare sprite" "effect/electrostatic flare/small"
 		"frame rate" 1.1
 	"steering flare sound" "ion small"
 	description "Thanks to the unique engineering at play, Electrostatic engines only produce marginally more heat than ion engines of the same size, while delivering more thrust and turn per ton than even plasma engines."
@@ -167,7 +167,7 @@ outfit "20KZ Electrostatic Steering"
 outfit "30KZ Electrostatic Steering"
 	category "Engines"
 	"cost" 46000
-	thumbnail "outfit/medium ion steering"
+	thumbnail "outfit/medium electrostatic steering"
 	"mass" 40
 	"outfit space" -40
 	"engine capacity" -40
@@ -175,7 +175,7 @@ outfit "30KZ Electrostatic Steering"
 	"turn" 1773
 	"turning energy" 3.8
 	"turning heat" 1.8
-	"steering flare sprite" "effect/ion flare/medium"
+	"steering flare sprite" "effect/electrostatic flare/medium"
 		"frame rate" 1.0
 	"steering flare sound" "ion medium"
 	description "This is the standard steering engine for most Syndicate heavy warships. They allow a ship to remain exceptionally mobile, while also reserving a ship's cooling capacity for its weapons."
@@ -184,7 +184,7 @@ outfit "30KZ Electrostatic Steering"
 outfit "40KZ Electrostatic Steering"
 	category "Engines"
 	"cost" 102000
-	thumbnail "outfit/large ion steering"
+	thumbnail "outfit/large electrostatic steering"
 	"mass" 67
 	"outfit space" -67
 	"engine capacity" -67
@@ -192,7 +192,7 @@ outfit "40KZ Electrostatic Steering"
 	"turn" 3678
 	"turning energy" 6.2
 	"turning heat" 3.075
-	"steering flare sprite" "effect/ion flare/large"
+	"steering flare sprite" "effect/electrostatic flare/large"
 		"frame rate" 0.9
 	"steering flare sound" "ion large"
 	description "This large electrostatic steering system is on the large end for most human ships, but provides substantial mobility over more conventional ionic alternatives."
@@ -201,7 +201,7 @@ outfit "40KZ Electrostatic Steering"
 outfit "50KZ Electrostatic Steering"
 	category "Engines"
 	"cost" 225000
-	thumbnail "outfit/huge ion steering"
+	thumbnail "outfit/huge electrostatic steering"
 	"mass" 96
 	"outfit space" -96
 	"engine capacity" -96
@@ -209,7 +209,7 @@ outfit "50KZ Electrostatic Steering"
 	"turn" 5328
 	"turning energy" 9.6
 	"turning heat" 4.8
-	"steering flare sprite" "effect/ion flare/huge"
+	"steering flare sprite" "effect/electrostatic flare/huge"
 		"frame rate" 0.8
 	"steering flare sound" "ion huge"
 	description "This is the most powerful electrostatic steering engine in human space, allowing almost any ship to turn as if it were a fighter. It does, however, draw a small reactor's worth of energy all by itself."
